@@ -20,3 +20,7 @@
 -- employees.emp_no=dept_emp.emp_no
 -- INNER JOIN departments ON
 -- departments.dept_no=dept_emp.dept_no;
+
+-- SELECT * FROM employees
+-- WHERE first_name = 'Hercules'
+-- AND last_name LIKE 'B%';
